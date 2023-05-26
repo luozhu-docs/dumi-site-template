@@ -27,6 +27,16 @@ export default defineConfig({
       : '/',
   analytics: {
     // TODO 替换为新的的 Google Analytics 代码
-    ga_v2: 'G-QT3BHRCWSH',
+    // ga_v2: '',
   },
+  sitemap: {
+    // TODO 配置为新的域名
+    hostname: 'https://youngjuning.js.org',
+  },
+  hash: true,
+  exportStatic: {},
+  ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
+  headScripts: [
+    {src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7029815294762181', async: true, crossorigin: 'anonymous'},
+  ]
 });
