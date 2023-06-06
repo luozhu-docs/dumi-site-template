@@ -15,6 +15,10 @@ $ yarn start
 $ yarn run build
 ```
 
+## Deploy
+
+Visit https://vercel.com/new to deploy your site.
+
 ## LICENSE
 
 MIT
