@@ -1,6 +1,6 @@
-# ZizhuDocs
+# zizhu-docs-template
 
-A static site base on [dumi](https://d.umijs.org).
+A static site for [zizhudocs](https://youngjuning.js.org/zizhudocs/) base on [dumi](https://d.umijs.org).
 
 ## Development
 
