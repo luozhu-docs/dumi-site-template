@@ -15,17 +15,13 @@ export default defineConfig({
       twitter: 'https://twitter.com/luozhu2021'
     },
     hd: { rules: [] },
-    footer: 'Made with ❤️ by <a href="https://youngjuning.js.org" target="_blank" nofollow>@洛竹</a>'
+    footer: 'Made with ❤️ by <a href="https://youngjuning.js.org/zizhudocs/" target="_blank" nofollow>@紫竹翻译计划</a>'
   },
   theme: {
     // TODO 替换为自己的主题色
     '@c-primary': '#13aa52',
   },
-  publicPath:
-    process.env.NODE_ENV === 'production'
-    // TODO 替换为新的的仓库名
-      ? 'https://cdn.jsdelivr.net/gh/youngjuning/youngjuning.js.org@gh-pages/'
-      : '/',
+  publicPath: '/',
   analytics: {
     // TODO 替换为新的的 Google Analytics 代码
     // ga_v2: '',

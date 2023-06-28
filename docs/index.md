@@ -1,8 +1,8 @@
 ---
 # TODO 替换为新的 TDK
 title: A static site based on dumi
-description: 洛竹
-keywords: [洛竹]
+description: 紫竹翻译计划
+keywords: [紫竹翻译计划]
 hero:
   title: Site
   description: A static site based on dumi
