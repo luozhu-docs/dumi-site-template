@@ -6,7 +6,7 @@ export default defineConfig({
   autoAlias: false,
   themeConfig: {
     // TODO 替换为新的的 name
-    name: 'dumi-site-template',
+    name: '紫竹翻译计划',
     // TODO 替换为新的的 logo
     logo: 'https://cdn.jsdelivr.net/gh/youngjuning/images@main/1680450378978.png',
     prefersColor: { default: 'auto' },

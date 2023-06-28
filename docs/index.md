@@ -1,11 +1,11 @@
 ---
 # TODO 替换为新的 TDK
-title: A static site based on dumi
+title: ZizhuDocs
 description: 紫竹翻译计划
 keywords: [紫竹翻译计划]
 hero:
-  title: Site
-  description: A static site based on dumi
+  title: ZizhuDocs
+  description: 紫竹翻译计划
   actions:
     - text: Hello
       link: /
@@ -23,4 +23,4 @@ features:
     description: Put ! description here
 ---
 
-dumi-site-template
+紫竹翻译计划
