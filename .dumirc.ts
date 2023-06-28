@@ -15,7 +15,7 @@ export default defineConfig({
       twitter: 'https://twitter.com/luozhu2021'
     },
     hd: { rules: [] },
-    footer: 'Made with ❤️ by <a href="https://youngjuning.js.org/zizhudocs/" target="_blank" nofollow>@紫竹翻译计划</a>'
+    footer: 'Made with ❤️ by <a href="https://youngjuning.js.org/zizhudocs/" target="_blank" nofollow>紫竹翻译计划</a>'
   },
   theme: {
     // TODO 替换为自己的主题色
